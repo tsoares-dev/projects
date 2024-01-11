@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="Projet01">8d9c9c8c9793351044eb34100153af82</app_config>
+        <description/>
+        <event_mappings/>
+        <macroponent display_value="Default">1c8f100497d3351044eb34100153af51</macroponent>
+        <macroponent_config>{ }</macroponent_config>
+        <name>Default</name>
+        <order>0</order>
+        <parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <required_translations>[ ]</required_translations>
+        <rollback_screen/>
+        <screen_condition/>
+        <screen_type display_value="Análise de Causa">108fd88097d3351044eb34100153af9d</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-18 23:58:14</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d08f100497d3351044eb34100153af54</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Default</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Projects" source="x_752986_projects">6e6598089793351044eb34100153af4c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Projects">6e6598089793351044eb34100153af4c</sys_scope>
+        <sys_update_name>sys_ux_screen_d08f100497d3351044eb34100153af54</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-18 23:58:14</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=d08f100497d3351044eb34100153af54"/>
+</record_update>
